@@ -2,11 +2,11 @@
 Task Manager in MEAN Stack.
 This project is under Development.
 
-# Frontend
+### Frontend
 
 This project was generated with [Angular CLI] version 8.3.23.
 
-# Backend
+### Backend
 
 This project was generated with NODEJS, MongoDB Express, JWT.
 
